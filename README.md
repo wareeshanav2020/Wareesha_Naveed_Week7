@@ -46,12 +46,11 @@ The saved model package contains the pipeline and metadata used by the applicati
 
 ## 6. Project Files
 
-- `Mall_Customer_Segmentation.ipynb` — Executed Jupyter Notebook containing the machine learning workflow.
+- `W7-customer_segmentation_model.ipynb` — Executed Jupyter Notebook containing the machine learning workflow.
 - `customer_segmentation_model.pkl` — Saved trained model package.
 - `app.py` — Streamlit application source code.
 - `README.md` — Project documentation.
-- `Technical_Report.pdf` — Short technical report.
-- `Application_Testing.xlsx` — Application testing table containing test inputs and prediction results.
+- `technical-report.pdf` — Short technical report.
 - `screenshots/` — Folder containing screenshots of the application and its test results.
 
 Include the processed dataset and cluster-labelled dataset if they are required by the assignment instructions.
